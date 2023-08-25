@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Money 2 Money</string>
+    <string name="digite_o_valor_em_real">Digite o valor em dólar para converter em real...</string>
+    <string name="digite_o_valor_do_d_lar_hoje">Digite o valor do dólar hoje...</string>
+    <string name="converta_o_valor_de_d_lar_para_real">Converta o valor de dólar para real</string>
+    <string name="imagem_contendo_algumas_notas_e_moedas">Imagem contendo algumas notas e moedas</string>
+    <string name="converter">Converter</string>
+</resources>
